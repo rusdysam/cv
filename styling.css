@@ -1,0 +1,57 @@
+.name {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    font-size: 30px;
+}
+.role {
+    color: white;
+    font-size:medium;
+    text-align: left;
+}
+.rounded-circle {
+    height: 200px;
+    width: 200px;
+    margin-top: 5px;
+}
+hr {
+    background-color: black;
+    height: 2.5px;
+}
+.header {
+    font-size: 20px;
+    font-weight:bold;
+    color: rgb(87, 190, 221);
+}
+.skill {
+    font-size: 20px;
+    font-weight:bold;
+    color: rgb(87, 190, 221);
+}
+.work-company {
+    font-size: 15px;
+    font-weight:bold;
+}
+.work-role {
+    font-size: small;
+    font-style: italic;
+}
+#desc {
+    font-size: small;
+}
+#skills {
+    font-size: small;
+}
+.edu-place {
+    font-size: 15px;
+    font-weight: bold;
+}
+.edu-course {
+    font-size: small;
+    font-style: italic;
+}
+.profile-picture {
+    border-radius: 50%;
+    height: 200px;
+    width: 190px;
+}
